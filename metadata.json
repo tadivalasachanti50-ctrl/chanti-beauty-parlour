@@ -1,0 +1,6 @@
+{
+  "name": "Chanti Beauty Parlour",
+  "description": "Premium beauty parlour and bridal studio in Dwarakanagar, Visakhapatnam offering luxury hair styling, bridal makeup, facials, skin care, nail studio, and wellness treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-cormorant {
+    font-family: 'Cormorant Garamond', serif;
+  }
+  .font-script {
+    font-family: 'Great Vibes', 'Alex Brush', cursive;
+  }
+  .font-playfair {
+    font-family: 'Playfair Display', serif;
+  }
+}
